@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xxd /d/51_C_Plus_Plus_Workshops/OneTwoGame_cpp/main.cpp)",
+      "Bash(cmake -B build -G \"MinGW Makefiles\" -DCMAKE_CXX_STANDARD=17)",
+      "Bash(cmake -B build)",
+      "Bash(cmake --build build)",
+      "Bash(./build/rsp_tests.exe)"
+    ]
+  }
+}

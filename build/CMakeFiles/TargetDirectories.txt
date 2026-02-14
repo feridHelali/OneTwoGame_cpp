@@ -1,0 +1,6 @@
+D:/51_C_Plus_Plus_Workshops/OneTwoGame_cpp/build/CMakeFiles/kernel.dir
+D:/51_C_Plus_Plus_Workshops/OneTwoGame_cpp/build/CMakeFiles/rsp_console.dir
+D:/51_C_Plus_Plus_Workshops/OneTwoGame_cpp/build/CMakeFiles/rsp_tests.dir
+D:/51_C_Plus_Plus_Workshops/OneTwoGame_cpp/build/CMakeFiles/test.dir
+D:/51_C_Plus_Plus_Workshops/OneTwoGame_cpp/build/CMakeFiles/edit_cache.dir
+D:/51_C_Plus_Plus_Workshops/OneTwoGame_cpp/build/CMakeFiles/rebuild_cache.dir
